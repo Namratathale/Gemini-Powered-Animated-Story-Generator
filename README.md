@@ -28,3 +28,7 @@ Welcome to the **Gemini-Powered Animated Story Video Generator** – an AI-power
 > 
 > 🎬 Outputs a 2-minute animated story with a baby dragon, forest backdrop, comic-style visuals, and sweet narration.
 
+## Demo Videos
+
+> https://github.com/user-attachments/assets/03c590a2-92f6-4e1e-a451-aca543beb3df
+> 

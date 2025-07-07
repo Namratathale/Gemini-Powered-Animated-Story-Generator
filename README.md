@@ -8,6 +8,7 @@ Welcome to the **Gemini-Powered Animated Story Video Generator** – an AI-power
 ## Demo Videos
 
 > https://github.com/user-attachments/assets/8e544867-e177-4b2b-9c2e-2f375b80a088
+> 
 > https://github.com/user-attachments/assets/03c590a2-92f6-4e1e-a451-aca543beb3df
 > 
 ## 🚀 Features

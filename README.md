@@ -5,7 +5,7 @@ Gemini-Powered Animated Story Video Generator is an innovative AI-powered projec
 
 Welcome to the **Gemini-Powered Animated Story Video Generator** – an AI-powered project that creates full-fledged animated story videos from a simple text prompt.
 
-## Demo Videos
+## 🎬 Demo Video
 
 > https://github.com/user-attachments/assets/8e544867-e177-4b2b-9c2e-2f375b80a088
 > 

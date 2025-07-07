@@ -1,10 +1,15 @@
 # Gemini-Powered-Animated-Story-Generator
 Gemini-Powered Animated Story Video Generator is an innovative AI-powered project that generates animated story videos using Title provided. It generates storylines, characters, voiceovers, scenes, and background music to create engaging, professional-grade videos—ideal for education, storytelling, and creative content generation.
-
+ 
 # Gemini-Powered Animated Story Video Generator 🎬✨
 
 Welcome to the **Gemini-Powered Animated Story Video Generator** – an AI-powered project that creates full-fledged animated story videos from a simple text prompt.
 
+## Demo Videos
+
+> https://github.com/user-attachments/assets/8e544867-e177-4b2b-9c2e-2f375b80a088
+> https://github.com/user-attachments/assets/03c590a2-92f6-4e1e-a451-aca543beb3df
+> 
 ## 🚀 Features
 
 - ✨ **AI-Powered Story Generation** – Uses **Gemini AI** to generate storylines, scenes, and dialogues.
@@ -27,8 +32,3 @@ Welcome to the **Gemini-Powered Animated Story Video Generator** – an AI-power
 > “A dragon who wants to learn how to sing”
 > 
 > 🎬 Outputs a 2-minute animated story with a baby dragon, forest backdrop, comic-style visuals, and sweet narration.
-
-## Demo Videos
-
-> https://github.com/user-attachments/assets/03c590a2-92f6-4e1e-a451-aca543beb3df
-> 
